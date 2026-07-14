@@ -1,0 +1,1 @@
+sub.textContent = 'Join Hari Mov and save your favorites';

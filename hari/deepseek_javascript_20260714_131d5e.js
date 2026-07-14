@@ -1,0 +1,1 @@
+navigator.clipboard.writeText(text + ' - Watch on Hari Mov!');
